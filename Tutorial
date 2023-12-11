@@ -1,1 +1,25 @@
-
+Step 1: Install CPU on Motherboard
+Unlock Socket: Lift the lever on the motherboard's CPU socket.
+Align and Install: Match the CPU notches with the socket indicators and gently place it in the socket.
+Secure: Lower the lever to secure the CPU in place.
+Step 2: Install RAM
+Unlock Slots: Unlock the clips on the RAM slots.
+Align and Insert: Align the RAM stick notches with the slot and firmly press down until the clips lock it in place.
+Step 3: Install Motherboard in Case
+Insert Standoffs: Install standoffs in the case according to the motherboard's size.
+Position and Secure: Carefully position the motherboard onto the standoffs and screw it into place.
+Step 4: Install Storage and PSU
+Mount Storage: Secure SSD/HDD in the case using screws or brackets.
+Connect Cables: Attach SATA and power cables from the PSU to the storage devices.
+Install PSU: Mount the PSU in the case and secure it with screws.
+Step 5: Install Graphics Card (if applicable)
+Locate PCIe Slot: Identify the suitable PCIe slot on the motherboard.
+Insert Card: Gently insert the graphics card into the slot and secure it with screws (if needed).
+Connect Power: Attach power cables from the PSU to the graphics card.
+Step 6: Connect Cables
+Motherboard Connections: Connect front panel connectors, USB ports, audio, and power/reset buttons as per the motherboard manual.
+PSU Connections: Connect all power cables from the PSU to the motherboard and components.
+Step 7: Check Connections and Power On
+Verification: Ensure all connections are secure and components are correctly installed.
+Power Up: Connect the power cable and switch on the PSU.
+Test Run: Press the power button on the case to check if the system boots up.
